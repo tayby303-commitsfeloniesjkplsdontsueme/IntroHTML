@@ -11,6 +11,10 @@ div{
     height: 55rem;
     margin: 2.5rem 5rem;
     background-color: darkgoldenrod;
+h1{
+    color: #009574;
+    font-family: #2458FE;
+}
 }
 body{
     background-color: aliceblue;
